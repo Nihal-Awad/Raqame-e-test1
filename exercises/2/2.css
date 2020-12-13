@@ -1,0 +1,33 @@
+#photos {
+  display: flex;
+  width: 100%;
+  height: 60%;
+}
+
+.photos {
+  border: solid rgb(31, 1, 1) 1px;
+  text-align: center;
+  line-height: 0.6em;
+  height: 90%;
+  width: 25%;
+}
+p {
+  text-decoration: underline;
+}
+
+img {
+  width: 95%;
+  height: 98%;
+}
+#bottom {
+  background-color: rgb(31, 1, 1);
+  width: 100%;
+  height: 10%;
+  color: white;
+  text-align: center;
+  padding-top: 2em;
+}
+
+a {
+  color: lightblue;
+}
